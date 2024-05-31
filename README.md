@@ -5,6 +5,13 @@
 I am utilizing the skills ive learned at appAcademy to make projects that fit my hobbies. You will find projects utilizing Javascript and Python to Express and Sequelize that fit a genre of video games
 and anime.
 
+- 🔭 I’m currently working on Game-Quest, a sequelize and express project about finding a new video game tailored to your tastes.
+- 🌱 I’m currently learning React
+- 🤔 I’m looking for help with getting a job
+- 💬 Ask me about my favorite Video Games
+- 📫 How to reach me: elijah.d.garcia@gmail.com
+- 😄 Pronouns: Male
+
 ## Technologies Used
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
