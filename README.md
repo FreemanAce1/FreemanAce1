@@ -1,5 +1,5 @@
 # 🦊FreemanAce
-**`A FullStack Developer in the works`**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A513&random=false&width=435&lines=A+Fullstack+Developer+In+The+Works)](https://git.io/typing-svg)
 
 
 I am utilizing the skills ive learned at appAcademy to make projects that fit my hobbies. You will find projects utilizing Javascript and Python to Express and Sequelize that fit a genre of video games
