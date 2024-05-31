@@ -1,4 +1,4 @@
-#🦊FreemanAce1
+# 🦊FreemanAce1
 **`A FullStack Developer in the works`**
 I am utilizing the skills ive learned at appAcademy to make projects that fit my hobbies. You will find projects utilizing Javascript and Python to Express and Sequelize that fit a genre of video games
 and anime.
