@@ -5,7 +5,7 @@
 I am utilizing the skills ive learned at appAcademy to make projects that fit my hobbies. You will find projects utilizing Javascript and Python to Express and Sequelize that fit a genre of video games
 and anime.
 
-- 🔭 I’m currently working on Game-Quest, a sequelize and express project about finding a new video game tailored to your tastes.
+- 🔭 I’m currently working on Getting CompTIA certs and Personal Projects.
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with getting a job
 - 💬 Ask me about my favorite Video Games
